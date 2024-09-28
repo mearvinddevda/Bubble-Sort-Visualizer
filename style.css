@@ -1,0 +1,15 @@
+
+#container{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+body{
+    text-align: center;
+}
+.bar{
+    background-color: black;
+    width: 15px;
+    margin: 6px;
+}
