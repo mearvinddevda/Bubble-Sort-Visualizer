@@ -7,9 +7,26 @@
 }
 body{
     text-align: center;
+    position: relative;
+    top: 25ex;
+    background-color: #dea241;
 }
 .bar{
     background-color: black;
     width: 15px;
     margin: 6px;
+}
+.boxi{
+    border: solid black;
+    border-radius: 25px;
+    padding: 5%;
+}
+#btn{
+    background-color: aqua;
+    font-size: 32px;
+    /* height: 5em; */
+    position: relative;
+    top: 15px;
+    width: 4em; 
+    border-radius: 25px;
 }
